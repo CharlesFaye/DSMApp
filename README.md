@@ -50,6 +50,10 @@ git clone https://github.com/CharlesFaye/djay-sunu-mbay.git
 
 ⚠️ You may need to configure Firebase or local database manually if your version uses cloud services.
 
+📸 Screenshots
+
+![IMG_20230428_131116](https://github.com/user-attachments/assets/119583ec-4892-4e45-a5c1-dbd877271cd5)
+
 📌 Future Improvements (optional ideas)
 . Add user authentication (farmers and buyers)
 
